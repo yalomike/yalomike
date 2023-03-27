@@ -1,5 +1,10 @@
 ![github-header-image](https://user-images.githubusercontent.com/104368998/228073573-0e9c1ab1-b1cb-4bac-b27e-6288f27aa9c6.png)
 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/mikeyalo)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/michael-yalovetzky/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mike.yalo/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://github.com/yalomike)
+
 <h2> 👋 About me </h2> 
 
 ```javascript
