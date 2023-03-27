@@ -1,6 +1,6 @@
 ![github-header-image](https://user-images.githubusercontent.com/104368998/228073573-0e9c1ab1-b1cb-4bac-b27e-6288f27aa9c6.png)
 
-## <h2> 👋 Connect with Me </h2> 
+<h2> 👋 About me </h2> 
 
 ```javascript
   const yalomike = {
