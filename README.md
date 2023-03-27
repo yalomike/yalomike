@@ -20,7 +20,10 @@
 ```
 
 - 📫 How to reach me: 
-  [LinkedIn](https://www.linkedin.com/in/michael-yalovetzky/)
+
+  - [LinkedIn](https://www.linkedin.com/in/michael-yalovetzky/)
+  - [Twitter](https://twitter.com/mikeyalo)
+  - [Email](emailto:https://www.gmail.com/myalo12)
 
 
 <!--
