@@ -4,23 +4,23 @@
 ![github-header-image](https://user-images.githubusercontent.com/104368998/228073573-0e9c1ab1-b1cb-4bac-b27e-6288f27aa9c6.png)
 
 ```javascript
-const welcome = () => {
-
-const yalomike = {
-  const firstname = 'Michael',
-  const lastname = 'Yalovetzky'
-  let age = 32
-  let English = 'Advanced (C1)'
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components, Docker, PostgreSQL],
-                      },
-   return yalomike
+  const yalomike = {
+     firstname = 'Michael',
+     lastname = 'Yalovetzky',
+     age = 32,
+     english = 'Advanced (C1)',
+     pronouns: "he" | "him",
+     code: [HTML , CSS , Javascript, Typescript, , ],
+     tools: [React, Redux, Node, Styled-Components, Docker, PostgreSQL],
+     },
+     
+     return yalomike
 }
 
-welcome()
 ```
 
+- 📫 How to reach me: 
+  [LinkedIn](https://www.linkedin.com/in/michael-yalovetzky/)
 
 
 <!--
