@@ -1,10 +1,20 @@
-### Hi there 👋
+### Hi, I'm Michael 👋
 
 
 ![github-header-image](https://user-images.githubusercontent.com/104368998/228073573-0e9c1ab1-b1cb-4bac-b27e-6288f27aa9c6.png)
 
-![github-header-image (1)](https://user-images.githubusercontent.com/104368998/228074143-95f84710-145a-4052-872d-0eb7924a5c5b.png)
-
+```javascript
+const yalomike = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, Styled-Components, Docker, PostgreSQL],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "RailsGirls POA"
+                      },
+}
+```
 
 <!--
 **yalomike/yalomike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
