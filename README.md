@@ -9,7 +9,7 @@
      age = 32,
      english = 'Advanced (C1)',
      pronouns: "he" | "him",
-     code: [HTML , CSS , Javascript, Typescript, , ],
+     code: [HTML , CSS , Javascript, Typescript],
      tools: [React, Redux, Node, Styled-Components, Docker, PostgreSQL],
      },
      
